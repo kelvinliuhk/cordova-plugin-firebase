@@ -3,7 +3,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'com.google.gms:google-services:+'
+        classpath 'com.google.gms:google-services:16.+'
     }
 }
 repositories {
